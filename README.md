@@ -1,3 +1,15 @@
+# OBSOLETE 
+
+
+__IMPORTANT__ This package is obsolete and no longer maintained. The installation and deployment scripts for the OiRA statistics can be found here:
+
+https://github.com/EU-OSHA/oira.statistics.deployment
+
+----
+OBSOLETE ++++++ OBSOLETE ++++++ OBSOLETE ++++++ OBSOLETE ++++++ OBSOLETE ++++++ OBSOLETE +++++
+
+----
+
 # OSHA OiRA Statistics Deployment
 
 This buildout configuration sets up a number of metabase instances to serve the OSHA OiRA statistics and generates scripts to prime them with a database dump and tweak their settings afterwards.
